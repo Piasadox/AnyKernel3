@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=PutCoolNamesHereKernel by @zainarbani
+kernel.string=Custom Kernel by ChuckDXD @ Telegram
 do.devicecheck=1
 do.modules=0
 do.systemless=1
